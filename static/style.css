@@ -1,0 +1,8 @@
+body{
+background-image: url('/static/img/home3.jpg')
+}
+.card-img-top {
+    width: 100%;
+    height: 25vw;
+    object-fit: cover;
+}
